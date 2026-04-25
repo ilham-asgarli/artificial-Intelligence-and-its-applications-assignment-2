@@ -1,0 +1,4 @@
+KMeans_Cluster,Recency,Frequency,Monetary,AvgBasketValue,AvgQtyPerInvoice,UniqueProducts,Tenure,PurchaseInterval,Count,SharePct,SegmentName
+0,175.39,1.79,470.46,287.39,26.22,26.01,254.98,173.41,1805,41.6,At Risk (used to be loyal)
+1,32.82,8.71,4775.38,608.82,83.78,118.83,289.6,50.11,1584,36.5,Champions
+2,34.63,1.58,524.79,353.24,16.29,33.31,52.41,37.03,949,21.9,Need Attention
